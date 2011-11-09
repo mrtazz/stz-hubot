@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n troubagix
+app: sh bin/hubot -a irc -n troubagix
