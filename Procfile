@@ -1,1 +1,1 @@
-app: exec node_modules/.bin/hubot -a irc -n troubagix
+app: bin/hubot -a irc -n troubagix
