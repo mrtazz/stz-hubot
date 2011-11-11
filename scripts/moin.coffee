@@ -12,4 +12,4 @@ moins = [
 
 module.exports = (robot) ->
   robot.hear /moin|morning|Guten Morgen/i, (msg) ->
-    msg.reply msg.random shots
+    msg.reply msg.random moins
