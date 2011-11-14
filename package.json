@@ -16,7 +16,7 @@
 
   "dependencies": {
     "hubot": "1.1.11",
-    "hubot-scripts": "1.1.8",
+    "hubot-scripts": "https://github.com/github/hubot-scripts/tarball/master",
     "optparse": "1.0.3"
   }
 }
