@@ -1,7 +1,11 @@
 [
   "achievement_unlocked.coffee",
   "adult.coffee",
+  "bij.coffee",
+  "coin.coffee",
+  "commitmessage.coffee",
   "dice.coffee",
+  "fortune.coffee",
   "github-issues.coffee",
   "haters.coffee",
   "jordan.coffee",
@@ -9,6 +13,7 @@
   "polite.coffee",
   "redis-brain.coffee",
   "remind.coffee",
+  "rimshot.coffee",
   "shipit.coffee",
   "tweet.coffee",
   "weather.coffee"
