@@ -1,5 +1,8 @@
 [
   "achievement_unlocked.coffee",
+  "ackbar.coffee",
+  "abstract.coffee",
+  "carlton.coffee",
   "adult.coffee",
   "bij.coffee",
   "coin.coffee",
@@ -10,6 +13,7 @@
   "haters.coffee",
   "jordan.coffee",
   "likeaboss.coffee",
+  "meme_generator.coffee",
   "polite.coffee",
   "redis-brain.coffee",
   "remind.coffee",
