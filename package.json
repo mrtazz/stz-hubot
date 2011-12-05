@@ -15,9 +15,9 @@
   },
 
   "dependencies": {
-    "hubot": "https://github.com/mrtazz/hubot/tarball/staging",
+    "hubot": "2.0.5",
     "hubot-scripts": "2.0.3",
-    "hubot-irc": "0.0.4",
+    "hubot-irc": "0.0.5",
     "optparse": "1.0.3"
   }
 }
