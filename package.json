@@ -18,7 +18,8 @@
     "hubot": "2.2.1",
     "hubot-scripts": "https://github.com/github/hubot-scripts/tarball/master",
     "hubot-irc": "0.0.8",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "jsdom": "0.2.14"
   },
 
   "engines": {
