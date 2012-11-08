@@ -43,4 +43,4 @@ module.exports = (robot) ->
     msg.reply msg.random Schule
  
   robot.hear /blöd/i, (msg) ->
-    msg.reply msg.random bloed
+    msg.reply msg.random Bloed
