@@ -17,3 +17,8 @@ Zaziki = ["Ins zaziki Griechenland !"]
 module.exports = (robot) ->
   robot.hear /Griechenland|Grieche|zaziki/i, (msg) ->
     msg.reply msg.random Zaziki
+Kind = ["Klingt extrem cremig Mister Das Kind !"]
+module.exports = (robot) ->
+  robot.hear /Kind|Kid|Billy/i, (msg) ->
+    msg.reply msg.random Kind
+
