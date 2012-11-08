@@ -7,9 +7,9 @@ Hoschi = ["Volle Kanne Hoschi"]
 Ted = ["Ted Das Nashorn Logan"]
 Zaziki = ["Ins zaziki Griechenland !"]
 Kind = ["Klingt extrem cremig Mister Das Kind !"]
-Napoleon = ["Na, -poleon ?", "Directemont avec Wasser-rütsche", "Napoleon gewinnt immer!", "La Glace? - Is Klasse, hau rein"]
+Napoleon = ["Na, -poleon ?", "Directemont avec Wasser-rutsche", "Napoleon gewinnt immer!", "La Glace? - Is Klasse, hau rein"]
 Soki = ["Soki", "Zockratte", "Soki, bei Fuß"]
-Johanna = ["Hemdsärmelkanal"]
+Johanna = ["Hemdsaermelkanal"]
 Schule = ["Turnschuhlutschen"]
 
 module.exports = (robot) ->
