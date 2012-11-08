@@ -2,9 +2,9 @@
 # Bill and Ted y'all
 #
 
-Bills = ["Bill S. Preston, Herrscher über die Sülznasen"]
+Bills = ["Bill S. Preston, Herrscher über die Sülznasen", "Heavy Metal !"]
 Hoschi = ["Volle Kanne Hoschi"]
-Ted = ["Ted Das Nashorn Logan"]
+Ted = ["Ted Das Nashorn Logan", "Heavy Metal !"]
 Zaziki = ["Ins zaziki Griechenland !"]
 Kind = ["Klingt extrem cremig Mister Das Kind !"]
 Napoleon = ["Na, -poleon ?", "Directemont avec Wasser-rütsche", "Napoleon gewinnt immer!", "La Glace? - Is Klasse, hau rein"]
