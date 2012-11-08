@@ -31,12 +31,12 @@ module.exports = (robot) ->
 
   robot.hear /Na |Na,|Napoleon/i, (msg) ->
     msg.reply msg.random Napoleon
- 
- robot.hear /Soki |Sokrates/i, (msg) ->
+
+  robot.hear /Soki |Sokrates/i, (msg) ->
     msg.reply msg.random Soki
-    
-      robot.hear /Johanna|Orleans/i, (msg) ->
+
+  robot.hear /Johanna|Orleans/i, (msg) ->
     msg.reply msg.random Johanna
-    
-      robot.hear /Schule/i, (msg) ->
+
+  robot.hear /Schule/i, (msg) ->
     msg.reply msg.random Schule
