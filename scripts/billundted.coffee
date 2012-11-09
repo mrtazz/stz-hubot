@@ -11,7 +11,6 @@ Napoleon = ["Na, -poleon ?", "Directemont avec Wasser-rütsche", "Na, kommen wir
 Soki = ["Soki", "Zockratte", "Soki, bei Fuß"]
 Johanna = ["Hemdsärmelkanal"]
 Schule = ["Turnschuhlutschen"]
-Bloed = ["selber blöd !"]
 Ritter = ["Ni !"]
 
 module.exports = (robot) ->
@@ -42,9 +41,6 @@ module.exports = (robot) ->
     
   robot.hear /Schule/i, (msg) ->
     msg.reply msg.random Schule
- 
-  robot.hear /blöd/i, (msg) ->
-    msg.reply msg.random Bloed
- 
-  robot.hear /es/i, (msg) ->
+  
+  robot.hear / es /i, (msg) ->
     msg.reply msg.random Ritter
