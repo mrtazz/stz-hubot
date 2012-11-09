@@ -12,6 +12,7 @@ Soki = ["Soki", "Zockratte", "Soki, bei Fuß"]
 Johanna = ["Hemdsärmelkanal"]
 Schule = ["Turnschuhlutschen"]
 Bloed = ["selber blöd !"]
+Ritter = ["Ni !"]
 
 module.exports = (robot) ->
 
@@ -44,3 +45,6 @@ module.exports = (robot) ->
  
   robot.hear /blöd/i, (msg) ->
     msg.reply msg.random Bloed
+ 
+  robot.hear /ist/i, (msg) ->
+    msg.reply msg.random Ritter
