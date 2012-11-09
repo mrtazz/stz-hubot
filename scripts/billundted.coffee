@@ -46,5 +46,5 @@ module.exports = (robot) ->
   robot.hear /blöd/i, (msg) ->
     msg.reply msg.random Bloed
  
-  robot.hear /ist/i, (msg) ->
+  robot.hear /es/i, (msg) ->
     msg.reply msg.random Ritter
