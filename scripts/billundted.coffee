@@ -21,16 +21,16 @@ module.exports = (robot) ->
   robot.hear /Hoschi|granatenstark|Bunt |Dasein/i, (msg) ->
     msg.reply msg.random Hoschi
 
-  robot.hear /Ted|Nashorn/i, (msg) ->
+  robot.hear /Ted|Nashorn/, (msg) ->
     msg.reply msg.random Ted
 
   robot.hear /Grieche|zaziki/i, (msg) ->
     msg.reply msg.random Zaziki
 
-  robot.hear /Kind|Kid|Billy/i, (msg) ->
+  robot.hear /Kind|Kid|Billy/, (msg) ->
     msg.reply msg.random Kind
 
-  robot.hear /Na |Na,|Napoleon/i, (msg) ->
+  robot.hear /Na |Na,|Napoleon/, (msg) ->
     msg.reply msg.random Napoleon
 
   robot.hear /Soki|Sokrates/i, (msg) ->
