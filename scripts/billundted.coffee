@@ -11,7 +11,7 @@ Napoleon = ["Na, -poleon ?", "Directemont avec Wasser-rütsche", "Na, kommen wir
 Soki = ["Soki", "Zockratte", "Soki, bei Fuß"]
 Johanna = ["Hemdsärmelkanal"]
 Schule = ["Turnschuhlutschen"]
-Zeit = ["Marty, du musst vierdimensional denken !"]
+Zeit = [" du musst vierdimensional denken !"]
 
 module.exports = (robot) ->
 
