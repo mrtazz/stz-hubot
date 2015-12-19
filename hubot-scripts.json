@@ -16,6 +16,5 @@
   "redis-brain.coffee",
   "rimshot.coffee",
   "shipit.coffee",
-  "tweet.coffee",
   "weather.coffee"
 ]
